@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102.97 27.31">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .75px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #c15e24;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: .5px;
+      }
+
+      .cls-3 {
+        stroke-width: 1.12px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #292929;
+        font-family: SpaceGrotesk-Medium, 'Space Grotesk';
+        font-size: 24px;
+        font-variation-settings: 'wght' 500;
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-4" transform="translate(0 20.4)"><tspan x="0" y="0">D</tspan></text>
+      <text class="cls-4" transform="translate(14.78 20.4)"><tspan x="0" y="0">E</tspan></text>
+      <text class="cls-4" transform="translate(27.24 20.4)"><tspan x="0" y="0">S</tspan></text>
+      <text class="cls-4" transform="translate(40.9 20.74)"><tspan x="0" y="0">K</tspan></text>
+      <text class="cls-5" transform="translate(55.54 20.74)"><tspan x="0" y="0">T</tspan></text>
+      <text class="cls-4" transform="translate(88.5 20.74)"><tspan x="0" y="0">P</tspan></text>
+      <g>
+        <path class="cls-3" d="M85.12,4.55v10.48c0,.32-.26.57-.6.57h-12.8c-.34,0-.61-.25-.61-.57V4.55c0-.32.27-.57.61-.57h12.8c.34,0,.6.25.6.57Z"/>
+        <polygon class="cls-3" points="88.26 7.18 88.26 12.57 85.12 15.26 85.07 15.26 85.07 4.48 85.2 4.4 88.26 7.18"/>
+        <rect class="cls-1" x="76.62" y="15.61" width="3" height="2.23"/>
+        <polyline class="cls-3" points="82.92 17.84 71.12 17.84 71.12 20.43 82.92 20.43"/>
+        <polyline class="cls-3" points="82.92 17.84 86.67 17.84 86.67 20.43 82.92 20.43"/>
+        <line class="cls-2" x1="83.05" y1="17.51" x2="83.05" y2="20.81"/>
+      </g>
+    </g>
+  </g>
+</svg>
