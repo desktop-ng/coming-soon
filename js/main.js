@@ -72,7 +72,7 @@
   /* final countdown
    * ------------------------------------------------------ */
   var ssFinalCountdown = function () {
-    var finalDate = new Date("January 25, 2026 15:37:25").getTime();
+    var finalDate = new Date("December 6, 2026 15:37:25").getTime();
     //-date: "Mar 25 2021",
 
     $(".home-content__clock")
