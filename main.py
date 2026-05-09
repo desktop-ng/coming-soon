@@ -63,9 +63,9 @@ def send_email(
     plaintext="Welcome to Desktop - You're on the list!",
 ):
     # Connection configuration
-    SMTP_SERVER = "smtp.gmail.com"  # For starttls
+    SMTP_SERVER = os.environ.get("SMTP_HOST")  # For starttls
     PORT = 587  # For starttls
-    USERNAME = "desktop@desktop.ng"
+    USERNAME = os.environ.get("USERNAME")
     PASSWORD = os.environ.get("PASSWORD")
 
     # Message setup
